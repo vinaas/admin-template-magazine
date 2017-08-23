@@ -1,11 +1,11 @@
 ---json
 {
-    "title": "Quản lý khách hàng",
+    "title": "Quản lý User",
     "slug": "",
     "description": "Index Page",
-    "layout": "quanlykhachhang.html",
+    "layout": "quanlyuser.html",
     "permalink" : false,
-    "activeLink" : "khachhang"
+    "activeLink" : "quanlyuser"
 }
 ---
 
